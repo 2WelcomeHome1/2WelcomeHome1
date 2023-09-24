@@ -7,7 +7,7 @@
 
 Я начинающий Python 🐍 разработчик в области Computer Vision & Machine Learning <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd6ajNoNjh5bTg0M2E1NHhqbnJ2dGhldWttMXNhbmhtZzlkbWVlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="30px"> . 
 
-- 📕 Бакалавриат: СПбГАСУ <img src="https://nwasz.ru/images/SPSUACE.png" width="20px"> - Автомобили и автомобильное хозяйство ⚙️
+- 📕 Бакалавриат: СПбГАСУ <img src="https://nwasz.ru/images/SPSUACE.png" width="15px"> - Автомобили и автомобильное хозяйство ⚙️
 - 📕 Магистратура: Университета ИТМО <img src="https://picloud.pw/media/resources/logo/unnamed.png" width="20px"> - Разработка беспилотных транспортных средств 👨🏼‍💻
 
 
