@@ -30,7 +30,7 @@
 
 ## 💻 Технологии:
 ---
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70px">  <img src= "https://avatars.dzeninfra.ru/get-zen_doc/5227693/pub_6328247ea6c25d694021085e_632824d27384a318ad83cad3/scale_1200" width="70px"> 
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70px">   <img src= "https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width="70px">  <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" width="70px">  <img src= "https://avatars.dzeninfra.ru/get-zen_doc/5227693/pub_6328247ea6c25d694021085e_632824d27384a318ad83cad3/scale_1200" width="70px">  <img src= "https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="70px">  <img src= "https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png" width="100px"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70px"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="70px"> 
 
 
 ## ⚙️ GitHub статистика:
