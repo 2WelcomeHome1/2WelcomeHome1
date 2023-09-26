@@ -8,6 +8,7 @@
 
 ### 🤓 Научные достижения
 ---
+- 📘 Физ-Мат с уклоном в Информатику
 - 📕 Бакалавриат: СПбГАСУ <img src="https://nwasz.ru/images/SPSUACE.png" width="15px"> - Автомобили и автомобильное хозяйство ⚙️
 - 📕 Магистратура: Университета ИТМО <img src="https://picloud.pw/media/resources/logo/unnamed.png" width="20px"> - Разработка беспилотных транспортных средств 👨🏼‍💻
 - 🏆 Лучший выпускник [ИТМО](https://live.itmo.ru/championship#m4) 2023
