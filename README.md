@@ -22,8 +22,9 @@
 - 📦 Основатель собственного интернет-магазина розничных товаров на платформах WB и Ozon.
 - <img src= "https://sun9-23.userapi.com/impg/0nmv_QmipkZh5Ove5fmxfvT3GBiLI_7NcA7clQ/SCJ1n7H2xSs.jpg?size=2560x2560&quality=95&sign=24956f6be1c7fe8802870b385cb5adf2&type=album" width="15px">  Разработал SaaS ПО для автоматизации торговли на рынке цифровых активов (на стадии MVP).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tesla_T_symbol.svg/800px-Tesla_T_symbol.svg.png" width="15px"> Представил проект первого в Санкт-Петербурге дилерского центра электромобилей Tesla.
-- 👁️ Разработал собственные модели [паноптической](https://github.com/2WelcomeHome1/EfficientPanopticModel) и [семантической](https://github.com/2WelcomeHome1/EfficientUDet) сегментации изображения в рамках магистерской диссертации.
 - <img src= "https://media4.giphy.com/media/GhqDcw0nQRpfvBhsoQ/giphy.gif?cid=6c09b952uojqj9adoopoe6fb6i0s7a3ct0e7a6e8whyed2fo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25px"> Разработал проект развития зарядной инфраструктуры для электромобилей в Санкт-Петербурге
+- 👁️ Разработал собственные модели [паноптической](https://github.com/2WelcomeHome1/EfficientPanopticModel) и [семантической](https://github.com/2WelcomeHome1/EfficientUDet) сегментации изображения в рамках магистерской диссертации.
+
 
 <p align="center">
  <img width="800" src="img/github-snake.svg" alt="snake"/>
