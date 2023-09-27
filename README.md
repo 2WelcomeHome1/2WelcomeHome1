@@ -37,12 +37,6 @@
 
 ### ⚙️ GitHub статистика:
 ---
-<table align="center">
-  <tr>
-    <td>
-      <img height="195px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2WelcomeHome1&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" />
-    </td>
-  </tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2WelcomeHome1&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/2WelcomeHome1/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=2WelcomeHome1)
