@@ -37,6 +37,6 @@
 
 ### ⚙️ GitHub статистика:
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2WelcomeHome1&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/2WelcomeHome1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2WelcomeHome1&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/2WelcomeHome1)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=2WelcomeHome1)
