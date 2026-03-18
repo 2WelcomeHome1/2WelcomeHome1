@@ -22,7 +22,7 @@
 ### 🏆 Карьерные достижения
 ---
 - 🔧 Работал механиком в ДЦ Porsche  <img src="https://companieslogo.com/img/orig/P911.DE-94013588.png?t=1744633652" width="15px"> и Lamborghini <img src="https://lezebre.lu/images/detailed/17/30348-Lamborghini.png" width="15px">
-- <img src= "https://habrastorage.org/getpro/moikrug/uploads/company/360/768/665/logo/medium_731820b82196487d80fd0df0b3a24d15.jpg" width="15px"> ITMO University - Junior -> Senior Machine Learning Engineer [CV]
+- <img src= "https://habrastorage.org/getpro/moikrug/uploads/company/360/768/665/logo/medium_731820b82196487d80fd0df0b3a24d15.jpg" width="15px"> ITMO University - Junior -> Middle Machine Learning Engineer [CV]
 - <img src= "https://toplogos.ru/images/logo-rosatom.png" width="15px"> Rosatom - Middle -> Senior Machine Learning Engineer [NLP]
 - <img src= "https://cdn.freebiesupply.com/logos/large/2x/moscow-1-logo-png-transparent.png" width="15px"> Moscow.gov - Senior -> Tech Lead Machine Learning Engineer [LLM/Agents]
 
